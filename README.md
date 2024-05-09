@@ -2,7 +2,7 @@
 
 This repository contains my solutions to various LeetCode problems. Each problem is solved in a separate file named according to the problem's title or number. 
 
-> **Please Note:**  
+> [!IMPORTANT] 
 > I do not specify what language I use; it is evident in the file extensions. I use LeetCode to try out different languages or implementations. Occasionally, I will intentionally do a harder/slower solution in order to try out something new.
 
 ## Organization
