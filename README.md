@@ -12,8 +12,7 @@ The repository is organized into folders based on the platform:
 - **leetcode**: Solutions to LeetCode problems.
 - **codewars**: Solutions to CodeWars problems.
 - **hackerank**: Solutions to HackerRank problems.
-<!--- **CtCI**: Solutions/Brainstorming for problems from the book Cracking the Coding Interview.-->
-
+- **CtCI**: Solutions/Brainstorming for problems from the book [Cracking the Coding Interview](https://www.crackingthecodinginterview.com/) by [Gayle Laakmaan McDowell](https://gayle.com/).
 
 ## How to Use
 
