@@ -21,6 +21,3 @@ Feel free to browse through the solutions for reference or study purposes. If yo
 ## Disclaimer
 
 These solutions are provided for educational purposes. While they aim to be correct and efficient, they may not always be the most optimal solution. I encourage you to understand the problems and solutions thoroughly, and to strive for your own implementations.
-
-<!--Test comment.-->
-<!--A second test comment.-->
